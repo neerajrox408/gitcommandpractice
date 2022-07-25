@@ -3,8 +3,8 @@ package commnadgithubdemo;
 public class prcaticecommand {
 
 	public static void main(String[] args) {
-String browser="edge";
-if(browser=="edge")
+String browser="ie";
+if(browser=="ie")
 {
 	System.out.println("browser is valid");
 }

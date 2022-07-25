@@ -4,7 +4,7 @@ public class prcaticecommand {
 
 	public static void main(String[] args) {
 String browser="edge";
-if(browser=="chrome")
+if(browser=="edge")
 {
 	System.out.println("browser is valid");
 }

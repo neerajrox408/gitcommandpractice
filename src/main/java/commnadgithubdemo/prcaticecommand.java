@@ -3,7 +3,7 @@ package commnadgithubdemo;
 public class prcaticecommand {
 
 	public static void main(String[] args) {
-String browser="chrome";
+String browser="edge";
 if(browser=="chrome")
 {
 	System.out.println("browser is valid");

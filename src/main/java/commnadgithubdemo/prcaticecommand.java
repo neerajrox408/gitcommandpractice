@@ -3,8 +3,8 @@ package commnadgithubdemo;
 public class prcaticecommand {
 
 	public static void main(String[] args) {
-String browser="chrome";
-if(browser=="chrome")
+String browser="firefox";
+if(browser=="firefox")
 {
 	System.out.println("browser is valid");
 }
